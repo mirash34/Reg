@@ -1,0 +1,12 @@
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\bin\Debug\RegExp.exe.config
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\bin\Debug\RegExp.exe
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\bin\Debug\RegExp.pdb
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\obj\Debug\RegExp.csprojResolveAssemblyReference.cache
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\obj\Debug\RegExp.exe
+c:\users\i.shvykin\documents\visual studio 2013\Projects\RegExp\RegExp\obj\Debug\RegExp.pdb
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\obj\Debug\RegExp.pdb
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\i.shvykin\Desktop\RegExp\RegExp\obj\Debug\RegExp.csprojResolveAssemblyReference.cache
